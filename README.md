@@ -17,12 +17,12 @@ The drawer sits discreetly 🙊 under the app so that it is there when you need 
   
 ## First-Party Plugins
 
-<p align="center" id="Example Measurements">
-  <img src="https://media.giphy.com/media/3ohjUPP3qnZ5l5osAE/giphy.gif" />
-  <img src="https://media.giphy.com/media/l4EoNOILr5Ofvgysw/giphy.gif" />
-  <img src="https://media.giphy.com/media/xT1R9Hf9383WjucomI/giphy.gif" />
-  <img src="https://media.giphy.com/media/26FeZcNF9Dbq89MBi/giphy.gif" />
-</p>
+| First-Party Plugins |
+| :------- | :------- |
+| View Inspector | Allows you to inspect the properties of any view live within the app. |
+| Measurements | Allows you to measure the distance between any two views on the screen. No more guessing whether padding is correct-this plugin has you covered. |
+| Slow Animations | The Slow Animations plugin allows you to slow down all animations within the app to 75%, 50% or 25% the normal speed. |
+
 
 ### View Inspector
 The View Inspector plugin allows you to inspect the properties of any view live within the app.
@@ -34,6 +34,13 @@ The Measurements plugin allows you to measure the distance between any two views
 
 ### Slow Animations
 Having trouble verifying an animation matches design? The Slow Animations plugin allows you to slow down all animations within the app to 75%, 50% or 25% the normal speed.
+
+<p align="center" id="Example Measurements">
+  <img src="https://media.giphy.com/media/3ohjUPP3qnZ5l5osAE/giphy.gif" />
+  <img src="https://media.giphy.com/media/l4EoNOILr5Ofvgysw/giphy.gif" />
+  <img src="https://media.giphy.com/media/xT1R9Hf9383WjucomI/giphy.gif" />
+  <img src="https://media.giphy.com/media/26FeZcNF9Dbq89MBi/giphy.gif" />
+</p>
 
 ## Third-Party Plugins
 Calling all developers!!! Be one of the first to create a third-party plugin. The plugin creation guide is a work in progress, but if you are feeling ambitious you can reference the plugins we have already created along with our [documentation](https://willowtreeapps.github.io/Hyperion-iOS/).
