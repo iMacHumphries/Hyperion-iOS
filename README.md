@@ -1,4 +1,4 @@
-# Hyperion
+# Hyperion - In App Design Review Tool
 
 [![Platform](https://img.shields.io/cocoapods/p/HyperioniOS.svg?style=flat)](http://cocoapods.org/pods/HyperioniOS)
 [![License](https://img.shields.io/cocoapods/l/HyperioniOS.svg?style=flat)](http://cocoapods.org/pods/HyperioniOS)
@@ -7,17 +7,12 @@
 [![CI Status](https://circleci.com/gh/willowtreeapps/Hyperion-iOS.svg?style=shield)](https://circleci.com/gh/willowtreeapps/Hyperion-iOS)
 ![Hyperion Logo](https://github.com/willowtreeapps/Hyperion-ios/raw/master/Img/Hyperion-Logo.png)
 
-# Hyperion - In App Design Review Tool
+Hyperion is a hidden plugin drawer that can easily be integrated into any app. 
 
-## What is it?
-
-<p align="center" id="Hyperion Drawer">
-  <img src="https://media.giphy.com/media/l4Ep2JJ27OngKOrmM/giphy.gif" />
-</p>
-
-Hyperion is a hidden plugin drawer that can easily be integrated into any app. The drawer sits discreetly 🙊 under the app so that it is there when you need it and out of the way when you don't. Hyperion plugins are designed to make inspection of your app quick and simple. For example, check out this plugin that allows you to measure distances between views:
+The drawer sits discreetly 🙊 under the app so that it is there when you need it and out of the way when you don't. Hyperion plugins are designed to make inspection of your app quick and simple. For example, check out this plugin that allows you to measure distances between views:
 
 <p align="center" id="Example Measurements">
+  <img src="https://media.giphy.com/media/l4Ep2JJ27OngKOrmM/giphy.gif" />
   <img src="https://media.giphy.com/media/3ohjUPP3qnZ5l5osAE/giphy.gif" />
 </p>
 
