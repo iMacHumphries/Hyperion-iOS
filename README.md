@@ -17,8 +17,8 @@ The drawer sits discreetly 🙊 under the app so that it is there when you need 
   
 ## First-Party Plugins
 
-| First-Party Plugins |
-| :------- | :------- |
+| Plugin | Description |
+| :----- | :---------- |
 | View Inspector | Allows you to inspect the properties of any view live within the app. |
 | Measurements | Allows you to measure the distance between any two views on the screen. No more guessing whether padding is correct-this plugin has you covered. |
 | Slow Animations | The Slow Animations plugin allows you to slow down all animations within the app to 75%, 50% or 25% the normal speed. |
