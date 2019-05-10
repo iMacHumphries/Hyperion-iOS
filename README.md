@@ -9,7 +9,7 @@
 
 Hyperion is a hidden plugin drawer that can easily be integrated into any app. 
 
-The drawer sits discreetly 🙊 under the app so that it is there when you need it and out of the way when you don't. Hyperion plugins are designed to make inspection of your app quick and simple.
+The drawer sits discreetly 🙊 under the app so that it is there when you need it and out of the way when you don't. Hyperion plugins are designed to make inspection of your app quick and simple. Once Hyperion is integrated into your app, simply shake your phone and the drawer will appear:
 
 <p align="center" id="Example Measurements">
   <img src="https://media.giphy.com/media/l4Ep2JJ27OngKOrmM/giphy.gif" />
@@ -18,7 +18,6 @@ The drawer sits discreetly 🙊 under the app so that it is there when you need 
 ## First-Party Plugins
 
 <p align="center" id="Example Measurements">
-  <img src="https://media.giphy.com/media/l4Ep2JJ27OngKOrmM/giphy.gif" />
   <img src="https://media.giphy.com/media/3ohjUPP3qnZ5l5osAE/giphy.gif" />
   <img src="https://media.giphy.com/media/l4EoNOILr5Ofvgysw/giphy.gif" />
   <img src="https://media.giphy.com/media/xT1R9Hf9383WjucomI/giphy.gif" />
@@ -30,19 +29,11 @@ The View Inspector plugin allows you to inspect the properties of any view live 
 
 Have a tiny view you want to inspect? No problem, you can zoom in on any portion of the app while the plugin is active.
 
-<p align="center" id="Zoom Example">
-  <img src="https://media.giphy.com/media/xT1R9Hf9383WjucomI/giphy.gif" />
-</p>
-
 ### Measurements
 The Measurements plugin allows you to measure the distance between any two views on the screen. No more guessing whether padding is correct-this plugin has you covered.
 
 ### Slow Animations
 Having trouble verifying an animation matches design? The Slow Animations plugin allows you to slow down all animations within the app to 75%, 50% or 25% the normal speed.
-
-<p align="center" id="Slow Animations">
-  <img src="https://media.giphy.com/media/26FeZcNF9Dbq89MBi/giphy.gif" />
-</p>
 
 ## Third-Party Plugins
 Calling all developers!!! Be one of the first to create a third-party plugin. The plugin creation guide is a work in progress, but if you are feeling ambitious you can reference the plugins we have already created along with our [documentation](https://willowtreeapps.github.io/Hyperion-iOS/).
