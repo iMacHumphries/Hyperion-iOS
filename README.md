@@ -9,23 +9,24 @@
 
 Hyperion is a hidden plugin drawer that can easily be integrated into any app. 
 
-The drawer sits discreetly 🙊 under the app so that it is there when you need it and out of the way when you don't. Hyperion plugins are designed to make inspection of your app quick and simple. For example, check out this plugin that allows you to measure distances between views:
+The drawer sits discreetly 🙊 under the app so that it is there when you need it and out of the way when you don't. Hyperion plugins are designed to make inspection of your app quick and simple.
+
+<p align="center" id="Example Measurements">
+  <img src="https://media.giphy.com/media/l4Ep2JJ27OngKOrmM/giphy.gif" />
+</p>
+  
+## First-Party Plugins
 
 <p align="center" id="Example Measurements">
   <img src="https://media.giphy.com/media/l4Ep2JJ27OngKOrmM/giphy.gif" />
   <img src="https://media.giphy.com/media/3ohjUPP3qnZ5l5osAE/giphy.gif" />
+  <img src="https://media.giphy.com/media/l4EoNOILr5Ofvgysw/giphy.gif" />
+  <img src="https://media.giphy.com/media/xT1R9Hf9383WjucomI/giphy.gif" />
+  <img src="https://media.giphy.com/media/26FeZcNF9Dbq89MBi/giphy.gif" />
 </p>
-
-If you like what you see, there's more where that came from.
-
-## First-Party Plugins
 
 ### View Inspector
 The View Inspector plugin allows you to inspect the properties of any view live within the app.
-
-<p align="center" id="View Inspector Example">
-  <img src="https://media.giphy.com/media/l4EoNOILr5Ofvgysw/giphy.gif" />
-</p>
 
 Have a tiny view you want to inspect? No problem, you can zoom in on any portion of the app while the plugin is active.
 
@@ -35,10 +36,6 @@ Have a tiny view you want to inspect? No problem, you can zoom in on any portion
 
 ### Measurements
 The Measurements plugin allows you to measure the distance between any two views on the screen. No more guessing whether padding is correct-this plugin has you covered.
-
-<p align="center" id="Example Measurements2">
-  <img src="https://media.giphy.com/media/3ohjUPP3qnZ5l5osAE/giphy.gif" />
-</p>
 
 ### Slow Animations
 Having trouble verifying an animation matches design? The Slow Animations plugin allows you to slow down all animations within the app to 75%, 50% or 25% the normal speed.
